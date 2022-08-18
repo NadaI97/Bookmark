@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+h1{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 29px;
+    color: #aaa;
+}
+
+.formBG{
+
+    background-color: #EEEEEE;
+}
+
+
+.formBG h2{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #000;
+}
+
+p, h4{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #333;
+}
+
+h4{
+
+    color:#aaa;
+}
+
+button{
+cursor: pointer;
+}
+
+.newSite{
+
+    background:linear-gradient(#EEE,#FFF);
+}
